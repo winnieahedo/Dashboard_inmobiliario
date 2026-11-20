@@ -4,6 +4,9 @@ Dashboard ejecutivo en **Power BI** para analizar el desempeño comercial de una
 
 **Herramientas:** Power BI (modelo de datos y medidas DAX)
 
+📥 **Archivo del dashboard:** [dashboard_inmobiliario.pbix](dashboard/dashboard_inmobiliario.pbix)
+*(Para abrirlo se necesita Power BI Desktop.)*
+
 ---
 
 ## 1. Contexto y problema de negocio
@@ -69,17 +72,7 @@ El sector inmobiliario necesita evaluar su desempeño comercial para entender su
 
 - El canal Directo puede tener otros costos que no están en los datos, así que la comparación de comisiones no es un análisis de rentabilidad completo.
 
-## 9. Estructura del repositorio
 
-```
-├── dashboard/     # archivo .pbix
-├── data/          # datos (si se pueden publicar)
-├── images/        # capturas del dashboard
-└── README.md
-```
-
-Para abrir el dashboard se necesita **Power BI Desktop**.
-
-## 10. Autora
+## 9. Autora
 
 **Winnie Ahedo** · [LinkedIn](https://www.linkedin.com/in/winnie-ahedo/) · [winnieahedo@gmail.com]
